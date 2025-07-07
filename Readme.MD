@@ -15,7 +15,6 @@ Este proyecto tiene como objetivo la exploración, procesamiento y análisis de 
 ## ⚙ Procesamiento y Análisis
 
 Los principales pasos incluyen:
-
 - Descarga de los datasets directamente desde los portales de datos abiertos.
 - Limpieza de datos: manejo de valores nulos, formatos de fecha, y normalización de nombres.
 - Enriquecimiento y cruce de datos donde sea posible.
